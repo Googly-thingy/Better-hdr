@@ -1,0 +1,44 @@
+B. Short Answer Questions
+18.1. Which factors are responsible for the strength of electrostatic forces between ions?
+ * Magnitude of Ionic Charge: Higher charges (q_1, q_2) produce stronger electrostatic attraction.
+ * Ionic Radius (Distance): Smaller ionic radii decrease the distance (r) between nuclei, increasing attraction force (F \propto \frac{q_1 q_2}{r^2}).
+18.2. Is lead (II) chloride soluble in water? Give comments.
+ * Solubility: Insoluble in cold water, but sparingly soluble in hot water.
+ * Comment: Heating provides thermal energy to overcome its lattice energy, allowing partial dissolution.
+18.3. Which lead salts are insoluble in water?
+ * Lead(II) chloride (\text{PbCl}_2) (in cold water)
+ * Lead(II) sulfate (\text{PbSO}_4)
+ * Lead(II) carbonate (\text{PbCO}_3)
+ * Lead(II) chromate (\text{PbCrO}_4)
+18.4. Name two insoluble carbonates.
+ * Calcium carbonate (\text{CaCO}_3)
+ * Barium carbonate (\text{BaCO}_3) (or Magnesium carbonate, \text{MgCO}_3)
+18.5. What is a crystal lattice?
+ * A regular, highly ordered 3D repeating arrangement of ions, atoms, or molecules throughout a crystalline solid.
+C. Constructed Response Questions
+18.1. Why are melting points of ionic salts generally very high?
+ * Strong Attraction: Ionic compounds consist of giant 3D networks of positive and negative ions held by powerful electrostatic forces.
+ * Energy Requirement: Massive thermal energy is needed to disrupt these strong ionic bonds and melt the lattice.
+18.2. Why ionic salts exist in solid state?
+ * Ions are fixed in rigid positions within a crystal lattice by strong ionic bonds.
+ * At room temperature, kinetic energy is insufficient to break these forces, preventing ionic movement.
+18.3. How will you prepare calcium sulphate in the laboratory?
+ * Method: Precipitation (double displacement reaction) using two soluble salts.
+ * Equation: \text{CaCl}_2(aq) + \text{Na}_2\text{SO}_4(aq) \rightarrow \text{CaSO}_4(s)\downarrow + 2\text{NaCl}(aq)
+ * Steps: Mix solutions \rightarrow Filter the white \text{CaSO}_4 precipitate \rightarrow Wash with distilled water \rightarrow Dry.
+18.4. Compare the melting points of NaCl and MgCl₂.
+ * Comparison: \text{NaCl} (801^\circ\text{C}) has a higher melting point than \text{MgCl}_2 (714^\circ\text{C}).
+ * Reason: Although \text{Mg}^{2+} has a +2 charge, its small size causes significant polarization of the chloride ion, giving \text{MgCl}_2 partial covalent character and lowering its melting point relative to purely ionic \text{NaCl}.
+18.5. How would you prepare pure crystals of copper sulfate in the laboratory?
+ * Reaction: React excess copper(II) oxide with warm dilute sulfuric acid:
+   
+ * Process:
+   * Filter off unreacted excess \text{CuO}.
+   * Heat the filtrate to concentrate it to the crystallization point.
+   * Cool slowly to form blue hydrated copper sulfate crystals (\text{CuSO}_4\cdot 5\text{H}_2\text{O}).
+D. Descriptive Questions
+18.1. Explain the formation of sodium chloride crystal?
+ * Electron Transfer: Sodium (\text{Na}) donates one valence electron to Chlorine (\text{Cl}):
+   
+ * Electrostatic Attraction: Oppositely charged ions (\text{Na}^+ and \text{Cl}^-) strongly attract each other to form an ionic bond.
+ * 3D Lattice Assembly: Millions of these ions arrange into a face-centered cubic lattice, where each \text{Na}^+ is surrounded by 6\ \text{Cl}^- ions, and each \text{Cl}^- is surrounded by 6\ \text{Na}^+ ions.

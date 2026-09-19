@@ -1,0 +1,6 @@
+{
+  "name": "Backlight HDR Camera",
+  "description": "Powerful camera app focused on backlight HDR, high-contrast scenes, manual exposure compensation, and real-time histogram feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
